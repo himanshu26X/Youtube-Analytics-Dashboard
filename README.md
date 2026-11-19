@@ -23,9 +23,9 @@ https://github.com/himanshu26X/Youtube-Analytics-Dashboard/blob/3e8838b561898fee
 ---
 
 ## 📁 Repository Structure
-* `YouTube_Analytics_Dashboard.twbx` – Packaged Tableau workbook
-* `dataset.csv` – Underlying dataset used for analysis
-* `screenshot.png` – Dashboard UI screenshot
+- [Download Excel Dataset](YouTube_Analytics_Dataset.xlsx)
+- [Download Tableau Dashboard](tableau%20file.twbx)
+- [View Dashboard Preview](dashboard_preview.png)
 
 ---
 
